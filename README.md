@@ -37,7 +37,7 @@ This project performs customer segmentation using RFM (Recency, Frequency, Monet
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](customer_segmentation_dashboard.png)
 
 ---
 
